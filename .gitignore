@@ -3,8 +3,8 @@
 project/project/
 project/target/
 target/
-actor/target/
-common/target/
+actor Module/target/
+common module/target/
 
 # intellij idea
 *.log
