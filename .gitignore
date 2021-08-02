@@ -3,7 +3,8 @@
 project/project/
 project/target/
 target/
-
+actor/target/
+common/target/
 
 # intellij idea
 *.log
@@ -12,8 +13,7 @@ target/
 *.iws
 .idea
 
-# mac
-.DS_Store
+
 
 # other?
 .history
